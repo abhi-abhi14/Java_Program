@@ -1,4 +1,4 @@
-package Unit_03;
+package unit_03;
 import java.util.*;
 import java.io.*;
 class exception{
@@ -105,7 +105,7 @@ class exception{
     }
      
 }
-public class P14_Exception_Handling {
+public class P14_Exceptions_Handling {
 
 	
 public static void main(String args[]) {
