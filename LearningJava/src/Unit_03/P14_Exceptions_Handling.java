@@ -1,4 +1,4 @@
-package unit_03;
+package Unit_03;
 import java.util.*;
 import java.io.*;
 class exception{
@@ -117,7 +117,7 @@ public static void main(String args[]) {
 //	obj.stackOverFlowError(2);
 //	obj.indexOutofBoundException();
 //	obj.nullPointerException();
-      //////	obj.useofThrow(12);     //cant call it for call it throws it or use try and catch 
+      //////	obj.useofThrow(12);     //can not call it for call it throws it or use try and catch 
 	obj.useofThrow_And_Finally();
 }
 }
