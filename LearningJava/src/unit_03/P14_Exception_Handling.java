@@ -90,7 +90,7 @@ public static void main(String args[]) {
 //	obj.stackOverFlowError(2);
 	obj.indexOutofBoundException();
 	obj.nullPointerException();
-	obj.useofThrow();
+	obj.useofThrow();  // this is a calling of useofthrow
 	obj.useofThrow_And_Finally();
 }
 }
