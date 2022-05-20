@@ -2,7 +2,7 @@ package unit_03;
 import java.util.*;
 class exception{
 	void basicException() {
-		int b=0;
+		int b=0; 
 		int a=10/b;
 		System.out.println(a);
 		System.out.println("Done!");
